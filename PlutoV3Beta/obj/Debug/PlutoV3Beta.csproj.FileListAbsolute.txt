@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\bin\Debug\PlutoV3Beta.exe.config
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\bin\Debug\PlutoV3Beta.exe
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\bin\Debug\PlutoV3Beta.pdb
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\bin\Debug\Siticone.UI.dll
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.csproj.AssemblyReference.cache
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.Forms.BuildsForm.resources
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.Forms.Startup.resources
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.Properties.Resources.resources
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.csproj.GenerateResource.cache
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.csproj.CopyComplete
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.exe
+C:\Users\Dexter\source\repos\PlutoV3Beta\PlutoV3Beta\obj\Debug\PlutoV3Beta.pdb
